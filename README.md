@@ -1,11 +1,7 @@
-# Contacts App
-
-[Live link](http://cds-polymer.appspot.com) (view on phone or with mobile emulation in Chrome)
-
 ## What this app is
 
-- A fun proof of concept to see what it's like to build an app with Polymer
-- A work in progress (please file bug reports and send pull requests)
+- This is a fork of @robdodsons contacts app. I'm building on top of this our ordering app.
+- This is a work in progress.  
 
 ## What this app is not
 
@@ -16,12 +12,15 @@
 ## Getting Started
 
 - git clone https://github.com/robdodson/contacts-app.git
-- `cd contacts-app`
+- `cd cotc_app`
 - `npm install && bower install`
 - `grunt serve`
 
 ## Supported actions
 
-- Scroll through a list of contacts
-- Click the add button to see a mock 'add contact' page
-- Click a contact to see more info
+- Scroll through a list of items 
+- Click the add to cart button on each item to add to list.
+- Click on the title of the card to show the details of the item.
+=======
+# cotc_app
+cream of the craft
