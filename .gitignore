@@ -1,0 +1,9 @@
+npm-debug.log
+.tmp
+.sass-cache
+app/bower_components/*
+dist
+dist/**
+node_modules
+node_modules/**
+bower_components/**
